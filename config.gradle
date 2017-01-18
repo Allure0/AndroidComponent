@@ -1,0 +1,23 @@
+ext {
+    isBuildApp=true;//false:作为Lib组件存在， true:作为application存在
+
+    android = [
+            compileSdkVersion: 23,
+            buildToolsVersion: "23.0.2",
+            minSdkVersion    : 16,
+            targetSdkVersion : 22,
+            versionCode :1,
+            versionName : '1.0.0',
+
+    ]
+
+    dependencies = [
+            appcompatV7 : 'com.android.support:appcompat-v7:23.0.1',
+            design: 'com.android.support:design:23.0.1',
+            umeng:  'com.umeng.analytics:analytics:latest.integration',
+            glide:  'com.github.bumptech.glide:glide:3.7.0',
+            reactnative:   'com.facebook.react:react-native:+',
+            lmbanners:  'com.allure0:LMBanners:1.0.8',
+
+    ]
+}

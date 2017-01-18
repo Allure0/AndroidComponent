@@ -1,0 +1,1 @@
+include ':sample', ':modulecore:moduleLogin', ':modulecore:moduleShop', ':modulebase'
