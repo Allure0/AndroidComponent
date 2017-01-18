@@ -16,6 +16,7 @@ public class MainActivity extends BaseActivity {
 
 
     public  void go2LoginModule(View view){
+
         startActivityForName(this,"com.allure.module.login.LoginActivity");
 
     }
