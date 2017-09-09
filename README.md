@@ -1,5 +1,6 @@
 # Android组件化案例
 
+[Android组件化开发实战地址](http://www.jikexueyuan.com/zhiye/course/84.html?type=18)
 组件化优点：
 -  便于团队进行并行开发，组件可采用架构无耦合。
  
