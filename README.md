@@ -1,6 +1,7 @@
 # Android组件化案例
 
-[Android组件化开发实战地址](http://www.jikexueyuan.com/zhiye/course/84.html?type=18)
+[视频Android组件化开发实战地址](http://www.jikexueyuan.com/zhiye/course/84.html?type=18)
+[Gradle插件自动依赖部署Demo](https://github.com/Allure0/AndroidComponentDemo)
 
 
 组件化优点：
