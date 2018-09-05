@@ -6,6 +6,10 @@
 [Gradle插件自动依赖部署组件化Demo](https://github.com/Allure0/AndroidComponentDemo)
 
 
+[组件化Gradle插件](https://github.com/Allure0/AndroidComponentPlugin)
+
+
+
 组件化优点：
 -  便于团队进行并行开发，组件可采用架构无耦合。
  
