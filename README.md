@@ -1,4 +1,4 @@
-# Android组件化案例
+# Android组件化案例（此Demo废弃，请以下链接---插件自动完成的组件化Demo）
 
 [视频Android组件化开发实战地址](http://www.jikexueyuan.com/zhiye/course/84.html?type=18)
 
